@@ -1,9 +1,11 @@
-// import functions
+//var strength = 1;
+//if(strength === 1){
+  //console.log(strength);
+//}
+//console.log(strength);
 
-// reference needed DOM elements
+const submitButton = document.getElementById('results');
+submitButton.addEventListener('click', ()=>{
 
+});
 
-// set event listeners 
-  // get user input(s)
-  // do any needed work with the value(s)
-  // update DOM to reflect new value(s)
