@@ -5,8 +5,8 @@ submitButton.addEventListener('click', ()=>{
     babyLion1.style.display = 'block';
 });
 
-function displayImage(){
-    var strength = 1;
-    if(strength === 1)
-        console.log(strength);
-};
+//function displayImage(){
+   // var strength = 1;
+    //if (strength === 1)
+        //console.log(strength);
+//}
