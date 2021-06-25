@@ -7,8 +7,6 @@ submitButton.addEventListener('click', ()=>{
 
 function displayImage(){
     var strength = 1;
-    if(strength === 1){
+    if(strength === 1)
         console.log(strength);
-}
-
-
+};
